@@ -46,7 +46,7 @@ def answer_mode(knowledge):
 def main_menu():
     knowledge = load_knowledge()
     while True:
-        print("\n🧠 Welcome to the Terminal School AI\n")
+        print("\n🧠 Welcome to the AI+ an AI OpenSurce\n")
         print("Options:")
         print("1. Teach the AI")
         print("2. Ask the AI")
