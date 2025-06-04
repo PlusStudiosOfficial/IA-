@@ -58,7 +58,7 @@ def main_menu():
         elif choice == "2":
             answer_mode(knowledge)
         elif choice == "3":
-            print("👋 Goodbye, teacher!")
+            print("👋 Goodbye!")
             break
         else:
             print("❌ Invalid option. Please try again.")
